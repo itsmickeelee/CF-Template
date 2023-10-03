@@ -1,4 +1,5 @@
 # CF-Template
+AWSTemplateFormatVersion: 2010-09-09
 Description: Template to create an EC2 instance and enable SSH
 
 Parameters: 
